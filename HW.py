@@ -1,3 +1,4 @@
+###Author:Abhinav Khemka
 import sympy as sy
 import numpy as np
 import matplotlib.pyplot as plt

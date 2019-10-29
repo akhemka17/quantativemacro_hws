@@ -49,7 +49,7 @@ k_eff[0] = K/sum(z)
 k_eff = z*k_eff[0]
 
 ## Ex 1.4
-diff=ki-k_eff
+diff=k_eff-ki
 plt.plot(diff)
 plt.title('Comparing effecient and actual capital')
 
@@ -97,7 +97,7 @@ k_eff1[0] = K1/sum(z1)
 k_eff1 = z1*k_eff1[0]
 
 #4
-diff1=ki1-k_eff1
+diff1=k_eff1-ki1
 plt.plot(diff1)
 plt.title('Comparing effecient and actual output:sample data')
 plt.show()

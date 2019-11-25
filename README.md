@@ -1,3 +1,3 @@
 # quantativemacro_hws
  
-I have uploaded the VFI and howards algorithm . I still have some issues with part d and the modification in part e. Hopefully i can have that running soon.
+I have updated the project file. I have done the finite horizon model but they are some issues with the survival risk part which i will try to fix soon.
